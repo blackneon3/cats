@@ -10,7 +10,8 @@ p.description > a{
     text-decoration: none;
     color: #000000;   
 }
-.animals{
+
+.animals {
     width: 240px;
     height: 240px;
     object-fit: cover;
